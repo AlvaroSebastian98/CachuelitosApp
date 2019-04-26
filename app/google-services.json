@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "629634995896",
+    "firebase_url": "https://cachuelitosapp.firebaseio.com",
+    "project_id": "cachuelitosapp",
+    "storage_bucket": "cachuelitosapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629634995896:android:1814ed9d392be728",
+        "android_client_info": {
+          "package_name": "com.manuico.cachuelitosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629634995896-90mnqkd5a43qtnoo60c6vupd8h5hcro4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manuico.cachuelitosapp",
+            "certificate_hash": "007dc9e59a2305092e21dd4337f52745f9eb39c9"
+          }
+        },
+        {
+          "client_id": "629634995896-pbc81g5jtic368ptcdrjf53fpgdo2vkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAt0gsDOifzWIjjF7ylA0Mw9PGzIAQ1Io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629634995896-pbc81g5jtic368ptcdrjf53fpgdo2vkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
